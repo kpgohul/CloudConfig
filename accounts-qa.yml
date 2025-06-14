@@ -2,7 +2,7 @@ build:
   version: "2.0"
 
 accounts:
-  message: "Account congif file account QA"
+  message: "Account congif file account QA added"
   contactDetails:
     name: "Smitha Ray - QA Lead"
     email: "smitha@eazybank.com"
