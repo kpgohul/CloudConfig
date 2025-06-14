@@ -2,7 +2,7 @@ build:
   version: "3.0"
 
 accounts:
-  message: "Account congif file account PROD"
+  message: "Account congif file account PROD added"
   contactDetails:
     name: "Reine Aishwarya - Product Owner"
     email: "aishwarya@eazybank.com"
