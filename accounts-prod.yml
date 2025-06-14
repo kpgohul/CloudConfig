@@ -5,7 +5,7 @@ accounts:
   message: "Account congif file account PROD added"
   contactDetails:
     name: "Reine Aishwarya - Product Owner"
-    email: "aishwarya@eazybank.com"
+    email: "{cipher}ae94a9b9e6a6261c801fbc8aaecf45b7fdc8cb4b4fa583c5392c5aa5a148b93545807fe146bcf42759b0d39186f50dec"
   onCallSupport:
     - (453) 392-4829
     - (236) 203-0384
